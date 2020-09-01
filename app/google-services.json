@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "570144697652",
+    "firebase_url": "https://tdsapp-a3b6e.firebaseio.com",
+    "project_id": "tdsapp-a3b6e",
+    "storage_bucket": "tdsapp-a3b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570144697652:android:8c93b56a68883204a98961",
+        "android_client_info": {
+          "package_name": "com.example.tdsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570144697652-167irfstplci7nr7apt3duh3eefecc9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT2PNtAGPrKKcGKPUMOGGdglI9zIMkokU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570144697652-167irfstplci7nr7apt3duh3eefecc9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570144697652:android:af2539ca93dff6e9a98961",
+        "android_client_info": {
+          "package_name": "com.mata.contactslistwithrealtimechatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570144697652-167irfstplci7nr7apt3duh3eefecc9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT2PNtAGPrKKcGKPUMOGGdglI9zIMkokU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570144697652-167irfstplci7nr7apt3duh3eefecc9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
